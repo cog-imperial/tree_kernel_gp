@@ -1,3 +1,17 @@
+# LEAF-GP
+This repository contains scripts featured in: <cite-article>.
+
+Please cite this work as:
+```
+@article{thebelt2022leafgp,
+  title={{Tree ensemble kernels for Bayesian optimization with known constraints over mixed-feature spaces}},
+  author={Thebelt, Alexander and Tsay, Calvin and Lee, Robert M and Sudermann-Merx, Nathan and Walz, David and Shafei, Behrang and Misener, Ruth},
+  eprint={2207.00879},
+  archivePrefix={arXiv},
+  year={2022}
+}
+```
+
 ## LEAF-GP Benchmarks
 
 ## Installation - Linux
