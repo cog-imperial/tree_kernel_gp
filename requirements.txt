@@ -1,7 +1,7 @@
 numpy
 torch
 tqdm
-lightgbm
+lightgbm~=3.3.5
 gpytorch
 scikit-learn
 scikit-optimize
